@@ -7,3 +7,4 @@
 | Timestamp (UTC/Local) | Milestone / Commit Summary |
 | :--- | :--- |
 | `2026-10-12 10:14:20` | `chore(edge-node): initialize Three.js isometric home digital twin on M1 node (:8844)` |
+| `2026-10-13 15:42:11` | `feat(scene): build multi-floor procedural architectural mesh (Lower Ground, Ground, First, Roof)` |

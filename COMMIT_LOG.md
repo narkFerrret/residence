@@ -10,3 +10,4 @@
 | `2026-10-13 15:42:11` | `feat(scene): build multi-floor procedural architectural mesh (Lower Ground, Ground, First, Roof)` |
 | `2026-10-14 19:08:45` | `feat(camera): add orthographic-perspective hybrid orbit rig and floor-slice elevation toggles` |
 | `2026-10-16 11:27:03` | `feat(materials): implement warm architectural PBR materials and ambient occlusion pass` |
+| `2026-10-18 16:50:30` | `feat(hue-3d): bind live Hue Bridge v2 light states to 3D point lights and emissive fixtures` |

@@ -12,3 +12,4 @@
 | `2026-10-16 11:27:03` | `feat(materials): implement warm architectural PBR materials and ambient occlusion pass` |
 | `2026-10-18 16:50:30` | `feat(hue-3d): bind live Hue Bridge v2 light states to 3D point lights and emissive fixtures` |
 | `2026-10-19 21:12:09` | `feat(hotspots): add interactive 3D spatial pins for cameras, rooms, and environmental sensors` |
+| `2026-10-21 14:05:52` | `feat(streams): add camera frustum cones and live snapshot texture projection in 3D space` |

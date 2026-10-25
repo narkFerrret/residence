@@ -15,3 +15,4 @@
 | `2026-10-21 14:05:52` | `feat(streams): add camera frustum cones and live snapshot texture projection in 3D space` |
 | `2026-10-22 18:33:19` | `feat(ndjson): stream 3.8fps base64 JPEG camera frames over application/x-ndjson (camera-frames-v1)` |
 | `2026-10-24 12:19:44` | `feat(clips): add modal event clip player with detection timeline scrubbing` |
+| `2026-10-25 17:40:10` | `feat(starlink): add direct HTTP/2 gRPC dish telemetry client (10.0.100.1:9200)` |

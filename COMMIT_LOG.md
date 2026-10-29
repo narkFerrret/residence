@@ -17,3 +17,4 @@
 | `2026-10-24 12:19:44` | `feat(clips): add modal event clip player with detection timeline scrubbing` |
 | `2026-10-25 17:40:10` | `feat(starlink): add direct HTTP/2 gRPC dish telemetry client (10.0.100.1:9200)` |
 | `2026-10-26 20:04:55` | `feat(weather): integrate local micro-climate weather and solar elevation sky shader` |
+| `2026-10-29 11:15:22` | `feat(deliveries): surface live food couriers and parcel shipments in 3D entrance HUD` |

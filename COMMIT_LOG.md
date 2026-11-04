@@ -19,3 +19,4 @@
 | `2026-10-26 20:04:55` | `feat(weather): integrate local micro-climate weather and solar elevation sky shader` |
 | `2026-10-29 11:15:22` | `feat(deliveries): surface live food couriers and parcel shipments in 3D entrance HUD` |
 | `2026-11-01 16:28:40` | `feat(assistant): add 3D spatial command bar with asynchronous job polling (/api/assistant)` |
+| `2026-11-04 14:52:18` | `feat(effects): trigger 3D camera fly-to, room light pulse, and basket drawer from assistant actions` |

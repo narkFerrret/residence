@@ -20,3 +20,4 @@
 | `2026-10-29 11:15:22` | `feat(deliveries): surface live food couriers and parcel shipments in 3D entrance HUD` |
 | `2026-11-01 16:28:40` | `feat(assistant): add 3D spatial command bar with asynchronous job polling (/api/assistant)` |
 | `2026-11-04 14:52:18` | `feat(effects): trigger 3D camera fly-to, room light pulse, and basket drawer from assistant actions` |
+| `2026-11-07 19:11:05` | `refactor(adapter): unify astro-local-adapter contract across Astro (:8787), Remy (:8790), and Jeeves (:8795)` |

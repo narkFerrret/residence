@@ -24,3 +24,4 @@
 | `2026-11-09 22:45:12` | `fix(webkit): forward HTTP 206 Partial Content byte ranges on /api/events/:id/clip for Safari MP4 playback` |
 | `2026-11-10 01:33:45` | `chore(ui): remove deprecated static food menu hotspot from 3D scene` |
 | `2026-11-10 05:41:01` | `feat(migration): migrate 3D console from M1 edge-node to M3 hub-host with mDNS home.local publisher` |
+| `2026-11-10 21:10:39` | `feat(media): render inline media attachments and live snapshot timestamps in 3D HUD` |

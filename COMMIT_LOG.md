@@ -22,3 +22,4 @@
 | `2026-11-04 14:52:18` | `feat(effects): trigger 3D camera fly-to, room light pulse, and basket drawer from assistant actions` |
 | `2026-11-07 19:11:05` | `refactor(adapter): unify astro-local-adapter contract across Astro (:8787), Remy (:8790), and Jeeves (:8795)` |
 | `2026-11-09 22:45:12` | `fix(webkit): forward HTTP 206 Partial Content byte ranges on /api/events/:id/clip for Safari MP4 playback` |
+| `2026-11-10 01:33:45` | `chore(ui): remove deprecated static food menu hotspot from 3D scene` |
